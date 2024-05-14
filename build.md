@@ -1,8 +1,8 @@
-Twitter: 10.40.0-release.0  
 Music (arm-v7a): 6.51.52  
-Reddit: 2024.18.1  
 Music (arm64-v8a): 6.51.52  
 Twitch: 16.9.1  
+Reddit: 2024.18.1  
+Twitter: 10.40.0-release.0  
 YouTube: 19.11.43  
 TikTok: 32.5.3  
 
