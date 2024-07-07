@@ -1,6 +1,4 @@
 Music (arm-v7a): 7.03.52  
-Music (arm64-v8a): 7.03.52  
-Twitch: 16.9.1  
 Twitter: 10.48.0-release.0  
 TikTok: 32.5.3  
 
