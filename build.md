@@ -1,9 +1,8 @@
-Music (arm-v7a): 7.21.50  
-Music (arm64-v8a): 7.21.50  
-Twitter: 10.61.1-release.0  
 TikTok: 36.5.4  
-Twitch: 16.9.1  
+Music (arm64-v8a): 7.22.51  
+Twitter: 10.62.0-release.0  
 Reddit: 2024.17.0  
+Twitch: 16.9.1  
 YouTube: 19.16.39  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
