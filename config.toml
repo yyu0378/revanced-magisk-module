@@ -8,9 +8,10 @@ parallel-jobs = 1
 
 [YouTube]
 build-mode = "both"
-excluded-patches = ""
-included-patches = ""
-version = "auto"
+version = "18.38.44"
+excluded-patches = "'Seekbar tapping' 'Disable rolling number animations' 'Miniplayer' 'Open videos fullscreen' 'Return YouTube Dislike' 'Shorts autoplay'"
+#included-patches = ""
+#version = "auto"
 arch = "arm64-v8a"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
@@ -19,6 +20,8 @@ uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 [Music]
 build-mode = "both"
 arch = "arm64-v8a"
+included-patches = "'Permanent repeat' 'Hide category bar'"
+excluded-patches = "'Bypass certificate checks' 'GmsCore support'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
