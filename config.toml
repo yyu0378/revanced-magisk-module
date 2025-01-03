@@ -58,15 +58,17 @@ uptodown-dlurl = "https://twitch.en.uptodown.com/android"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
 
 [Twitter]
-enabled = false
-apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
-build-mode = "apk"
-dpi = "120-640dpi"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
+apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
+arch = "both"
+build-mode = "both"
+version = "latest"
+included-patches = "'Hide view count' 'Open links with app chooser'"
 
-[TikTok]
-enabled = false
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
+[Tiktok]
+apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
+arch = "both"
+build-mode = "both"
+version = "latest"
 included-patches = "'SIM spoof'"
 
 [Messenger]
