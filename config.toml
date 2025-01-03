@@ -64,9 +64,12 @@ enabled = true
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok/"
 arch = "both"
 build-mode = "both"
-version = "latest"
+version = "36.5.4"
 included-patches = "'SIM spoof'"
 
 [Spotify]
 enabled = true
+arch = "both"
+build-mode = "both"
+version = "latest"
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
