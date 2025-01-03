@@ -66,9 +66,9 @@ version = "36.5.5"
 included-patches = "'SIM spoof'"
 
 [Spotify]
+uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 arch = "arm64-v8a"
 build-mode = "both"
 version = "auto"
-uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 included-patches = "'Premium navbar tab'"
 exclusive-patches = true
