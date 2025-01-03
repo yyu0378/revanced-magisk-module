@@ -52,7 +52,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 [Twitter]
-enabled = true
+enabled = true 
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 arch = "both"
 build-mode = "both"
@@ -60,7 +60,7 @@ version = "latest"
 included-patches = "'Hide view count' 'Open links with app chooser'"
 
 [Tiktok]
-enabled = true
+enabled = true 
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok/"
 arch = "both"
 build-mode = "both"
@@ -68,7 +68,7 @@ version = "36.5.4"
 included-patches = "'SIM spoof'"
 
 [Spotify]
-enabled = true
+enabled = true 
 arch = "both"
 build-mode = "both"
 version = "latest"
