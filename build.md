@@ -1,4 +1,5 @@
 GooglePhotos: 7.16.0.722859601  
+Messenger: 439.0.0.29.119  
 Music: 7.29.52  
 Music-Extended: 7.16.53  
 YouTube: 19.47.53  
