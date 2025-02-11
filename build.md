@@ -1,7 +1,8 @@
-GooglePhotos: 7.16.0.722859601  
 Messenger: 439.0.0.29.119  
 Music: 7.29.52  
 Music-Extended: 7.16.53  
+Spotify: 9.0.16.572  
+Twitter: 10.62.1-release.0  
 YouTube: 19.47.53  
 YouTube-Extended: 19.44.39  
 
