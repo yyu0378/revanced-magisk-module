@@ -65,13 +65,13 @@ enabled = true
 apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
 build-mode = "both"
-# dpi = "120-640dpi"
+dpi = "120-640dpi"
 arch = "all"
 
 [Tiktok]
 enabled = true
 uptodown-dlurl = "https://tiktok.en.uptodown.com/android/"
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 build-mode = "both"
 arch = "all"
 version = "36.5.4"
