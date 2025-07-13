@@ -1,13 +1,12 @@
-GooglePhotos (arm64-v8a): 7.35.0.774533729  
-GooglePhotos (arm-v7a): 7.35.0.774533729  
-Messenger: 513.1.0.46.107  
+GooglePhotos (arm64-v8a): 7.36.0.779865778  
+GooglePhotos (arm-v7a): 7.36.0.779865778  
+IconPackStudio: 2.2 build 016  
+Messenger: 515.0.0.51.108  
 Music (arm64-v8a): 8.05.51  
 Music (arm-v7a): 8.05.51  
 Music-Extended (arm64-v8a): 8.05.51  
 Music-Extended (arm-v7a): 8.05.51  
-Spotify: 9.0.58.578  
-TikTok: 36.5.4  
-Twitch: 16.9.1  
+Spotify: 9.0.62.603  
 YouTube: 20.13.41  
 YouTube-Extended: 19.47.53  
 
@@ -21,5 +20,5 @@ Patches: inotia00/patches-5.6.2.rvp
 [Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.6.2)
 
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.29.0.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.29.0)  
+Patches: ReVanced/patches-5.31.1.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.31.1)  
