@@ -1,11 +1,7 @@
-GooglePhotos (arm64-v8a): 7.43.0.800596475  
-GooglePhotos (arm-v7a): 7.43.0.800596475  
+GooglePhotos: 7.43.0.800596475  
 Instagram: 378.0.0.52.68  
-Music (arm64-v8a): 8.25.54  
-Music (arm-v7a): 8.25.54  
-Music-Extended (arm64-v8a): 8.12.53  
-Music-Extended (arm-v7a): 8.12.53  
-Reddit: 2024.17.0  
+Music: 8.25.54  
+Music-Extended: 8.12.53  
 Spotify: 9.0.76.1115  
 Twitch: 16.9.1  
 YouTube: 20.13.41  
